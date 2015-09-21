@@ -9,3 +9,4 @@ Workshop on Git for the students of Coding Club
 * Sivasubramanyam A, IV Year, B Section.
 * Ashwin S, IV Year, A Section.
 * Pravin RB, III Year, B Section.
+* Dharani Mozhi R,III year,A section
